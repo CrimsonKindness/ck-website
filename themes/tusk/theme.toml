@@ -1,0 +1,21 @@
+# theme.toml template for a Hugo theme
+# See https://github.com/spf13/hugoThemes#themetoml for an example
+
+name = "Tusk"
+license = "MIT"
+licenselink = "https://github.com/CrimsonKindness/tusk/blob/master/LICENSE.md"
+description = ""
+homepage = "http://CrimsonKindness.com/"
+tags = ["", ""]
+features = ["", ""]
+min_version = 0.17
+
+[author]
+  name = "Emily Huynh"
+  homepage = "http://emilykimhuynh.com"
+
+# If porting an existing theme
+[original]
+  name = ""
+  homepage = ""
+  repo = ""
