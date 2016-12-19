@@ -2,3 +2,7 @@ theme = "tusk"
 baseurl = "http://CrimsonKindness.com/"
 title = "Crimson Kindness"
 languageCode = "en-us"
+
+[params]
+  semester = "Spring 2017"
+  academicYear = "2016-2017"

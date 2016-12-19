@@ -1,5 +1,10 @@
 var gulp = require('gulp');
+var del = require('del');
 var sass = require('gulp-sass');
+
+gulp.task('clean', function() {
+	return del(['public'])
+});
 
 gulp.task('sass', function() {
 	return gulp.src('_site/style.scss')

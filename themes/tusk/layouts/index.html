@@ -1,0 +1,45 @@
+{{ partial "header.html" . }}
+	<section class="parallax hero">
+
+		<div class="bg-holder"></div>
+		<div class="overlay"></div>
+		<div class="text-container">
+			<divdd class="text-content">
+				<h1>Kindness</h1>
+				<h2>It's what we do.</h2>
+			</div>
+		</div>
+	</section>
+	<section class="scrolling welcome">
+		<div class="container">
+			<h1>Welcome</h1>
+			<div class="divider"></div>
+			<p>This is Crimson Kindness, a student organization at The University of Alabama. We are so glad you want to make a difference on our campus and join our growing community of kindness! We pour our hearts into uplifting and encouraging the people around us. At our University, we’re a family and Crimson Kindness strives to embody that spirit. So join us as we carry on the tradition of kindness at The University of Alabama.
+			</p>
+		</div>
+	</section>
+	<section class="scrolling who-what-why">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-4">
+					<img class="clip" src="{{ .Site.BaseURL }}/images/home/who-we-are.jpg">
+					<h3>Who We Are</h3>
+					<div class="divider"></div>
+					<p>A group of students passionate about spreading kindness.</p>
+				</div>
+				<div class="col-md-4">
+					<img class="clip" src="{{ .Site.BaseURL }}/images/home/what-we-do.jpg">
+					<h3>What We Do</h3>
+					<div class="divider"></div>
+					<p>Engage in activities that promote and spread kindness.</p>
+				</div>
+				<div class="col-md-4">
+					<img class="clip" src="{{ .Site.BaseURL }}/images/home/why-we-do-it.jpg">
+					<h3>Why We Do It</h3>
+					<div class="divider"></div>
+					<p>Because it’s fun, rewarding, and makes a difference.</p>
+				</div>
+		</div>
+	</section>
+	<!-- {{ .Site.Params.academicYear }} -->
+{{ partial "footer.html" . }}
