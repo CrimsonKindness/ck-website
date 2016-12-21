@@ -34,9 +34,6 @@ a {
     color: #AA1804;
     text-decoration: none; }
 
-strong {
-  font-family: 'Avenir Next Demi Bold', sans-serif; }
-
 /*
 * Headings
 */
@@ -47,24 +44,11 @@ strong {
   margin: 4vh auto; }
 
 h1 {
-  margin: 3vh 0;
-  font-family: 'Avenir Next Ultra Light', sans-serif;
   text-transform: uppercase;
   text-align: center;
-  letter-spacing: 1vh; }
-
-h2 {
-  margin: 4vh 0;
-  font-family: 'Arvo', serif;
-  font-weight: 700;
-  letter-spacing: 2px;
-  text-align: center;
-  text-transform: uppercase; }
-
-h4 {
-  margin-top: 3vh;
-  font-family: 'Arvo', serif;
-  color: #AA1804; }
+  letter-spacing: 1vh;
+  font-family: 'Avenir Next Ultra Light', sans-serif;
+  margin: 3vh 0; }
 
 /*
 * Navigation
@@ -223,40 +207,11 @@ h4 {
     color: #AA1804; }
 
 /*
-* Content
-*/
-.content {
-  padding: 5vh inherit;
-  min-height: 85%; }
-
-.featured {
-  margin-top: 60px;
-  padding: 5vh;
-  width: 100%;
-  height: 40vh;
-  display: table; }
-  .featured .featured-container {
-    min-height: 40vh;
-    border: 1vh solid #ffffff;
-    text-align: center;
-    display: table-cell;
-    vertical-align: middle; }
-    .featured .featured-container h1 {
-      color: #ffffff;
-      font-family: 'Avenir Next Demi Bold', sans-serif;
-      font-size: 5vh; }
-
-/*
 * Responsive design
 */
 @media only screen and (min-width: 320px) {
-  .hero > .text-container > .text-content h1 {
-    font-size: 7vh;
-    letter-spacing: 1.5vh; }
-  .hero > .text-container > .text-content h2 {
+  .welcome h1, .join h1 {
     font-size: 3vh; }
-  h1 {
-    font-size: 4vh; }
   .who-what-why p {
     font-size: 2vh;
     line-height: 3vh; } }
@@ -267,7 +222,7 @@ h4 {
     letter-spacing: 2vh; }
   .hero > .text-container > .text-content h2 {
     font-size: 4vh; }
-  h1 {
+  .welcome h1, .join h1 {
     font-size: 4vh; }
   .who-what-why {
     padding: 5vh 0; }

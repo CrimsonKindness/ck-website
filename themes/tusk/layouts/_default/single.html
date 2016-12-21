@@ -1,4 +1,11 @@
 {{ partial "header.html" . }}
-	<h1>{{ .Title }}</h1>
-	{{ .Content }}
+	<div class="featured parallax" style="background-image: url('{{ .Params.featured_image }}')">
+		<div class="featured-container">
+			<h1>{{ .Title }}</h1>
+		</div>
+	</div>
+	<div class="container content scrolling">
+		{{ .Content }}
+
+	</div>
 {{ partial "footer.html" . -}}
