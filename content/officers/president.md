@@ -1,10 +1,9 @@
 +++
 name = "Taylor Sheeran"
-email = ""
-headshot_image = ""
+email = "tksheeran@crimson.ua.edu"
+headshot_image = "../images/officers/taylor.jpg"
 bio = ""
-featured_image = ""
 date = "2016-12-21T22:32:22-06:00"
 title = "President"
-
+weight = 1
 +++

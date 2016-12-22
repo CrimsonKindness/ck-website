@@ -3,6 +3,7 @@
 <head>
   <title>{{ .Title }}</title>
   {{ .Hugo.Generator }}
+  <!-- TODO: Google Analytics -->
   <link href="https://fonts.googleapis.com/css?family=Emilys+Candy" rel="stylesheet">
   <link href="https://fonts.googleapis.com/css?family=Arvo:400,700" rel="stylesheet">
   <link rel="stylesheet" type="text/css" href="{{ .Site.BaseURL }}css/bootstrap.min.css">
@@ -31,7 +32,7 @@
           <a href="{{ .Site.BaseURL }}about/" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">About <span class="caret"></span></a>
           <ul class="dropdown-menu">
             <li><a href="{{ .Site.BaseURL }}about/">About Crimson Kindness</a></li>
-            <li><a href="{{ .Site.BaseURL }}about/officers">Officers {{ .Site.Params.academicYear }}</a></li>
+            <li><a href="{{ .Site.BaseURL }}officers">Officers {{ .Site.Params.academicYear }}</a></li>
             <li><a href="#">Team Leaders {{ .Site.Params.semester }}</a></li>
           </ul>
         </li>

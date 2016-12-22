@@ -1,8 +1,9 @@
 {{ partial "header.html" . }}
   {{ partial "featured_image.html" . }}
-officer list
-
-{{ .Params }}
-{{ .Title }}
-
+  <div class="container content scrolling">
+    <!-- TODO: fix officer ordering -->
+    {{ range .Data.Pages.ByWeight }}
+      {{ .Render "li" }}
+    {{ end }}
+  </div>
 {{ partial "footer.html" . }}
