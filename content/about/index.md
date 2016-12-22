@@ -63,4 +63,4 @@ currently have planned on our What We Do page. We can’t wait to see you at our
 **Want to join?** Click over to our Join page to learn how you can become a
 member of Crimson Kindness.
 
-**Want to meet our leaders?** Head on over to the [Officers](officers) or Team Leaders page.
+**Want to meet our leaders?** Head on over to the [Officers](../officers) or Team Leaders page.
