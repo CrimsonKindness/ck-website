@@ -1,8 +1,7 @@
 {{ partial "header.html" . }}
   {{ partial "featured_image.html" . }}
   <div class="container content scrolling">
-    {{ range .Data.Pages.ByWeight }}
-      {{ .Render "li" }}
-    {{ end }}
+    {{ partial "shop/spring_dues.html" . }}
+
   </div>
 {{ partial "footer.html" . }}

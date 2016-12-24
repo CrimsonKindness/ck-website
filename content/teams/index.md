@@ -7,7 +7,7 @@ featured_image = ""
 +++
 Teams are the heart and soul of Crimson Kindness. Teams consist of fun activities
 engaging you and others in acts of kindness. [Team Leaders](../team-leaders)
-will provide an activityat each meeting helping you to spread a little more
+will provide an activity at each meeting helping you to spread a little more
 kindness each time you go.
 
 Teams meet every other week on Sunday-Thursday at 7:00 in the Ferguson Center on

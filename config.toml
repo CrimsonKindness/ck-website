@@ -1,6 +1,10 @@
 theme = "tusk"
-baseurl = "http://CrimsonKindness.com/"
+baseurl = "http://CrimsonKindness.github.io"
 title = "Crimson Kindness"
+contentDir = "content"
+layoutDir = "layouts"
+publishDir = "public"
+canonifyURLS = true
 languageCode = "en-us"
 
 [params]
