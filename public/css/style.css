@@ -1,0 +1,278 @@
+/*
+* Variables
+*/
+/*
+* Mixins
+*/
+/*
+* Fonts
+*/
+@font-face {
+  font-family: 'Avenir Next';
+  src: url(../fonts/avenir-next-regular.ttf) format("truetype"); }
+
+@font-face {
+  font-family: 'Avenir Next Demi Bold';
+  src: url(../fonts/avenir-next-demi-bold.ttf) format("truetype"); }
+
+@font-face {
+  font-family: 'Avenir Next Ultra Light';
+  src: url(../fonts/avenir-next-ultra-light.ttf) format("truetype"); }
+
+html, body {
+  height: 100%;
+  font-family: "Avenir Next", "Lucida Sans Unicode", sans-serif; }
+
+p {
+  font-size: 2vh; }
+
+a {
+  transition: .3s;
+  color: #0BACB9; }
+  a:hover {
+    transition: .3s;
+    color: #AA1804;
+    text-decoration: none; }
+
+strong {
+  font-family: 'Avenir Next Demi Bold', sans-serif; }
+
+/*
+* Headings
+*/
+.divider {
+  width: 100px;
+  height: 3px;
+  background-color: rgba(0, 0, 0, 0.1);
+  margin: 4vh auto; }
+
+h1 {
+  margin: 3vh 0;
+  font-family: 'Avenir Next Ultra Light', sans-serif;
+  text-transform: uppercase;
+  text-align: center;
+  letter-spacing: 1vh; }
+
+h2 {
+  margin: 4vh 0;
+  font-family: 'Arvo', serif;
+  font-weight: 700;
+  letter-spacing: 2px;
+  text-align: center;
+  text-transform: uppercase; }
+
+h4 {
+  margin-top: 3vh;
+  font-family: 'Arvo', serif;
+  color: #AA1804; }
+
+/*
+* Navigation
+*/
+.navbar-default {
+  background: #ffffff;
+  padding: 1vh;
+  border: 0; }
+  .navbar-default .navbar-brand {
+    font-size: 2em;
+    font-family: 'Emilys Candy';
+    color: #0BACB9; }
+    .navbar-default .navbar-brand .i {
+      color: #AA1804; }
+  .navbar-default .navbar-nav {
+    text-transform: uppercase; }
+    .navbar-default .navbar-nav .dropdown-menu {
+      text-transform: none; }
+    .navbar-default .navbar-nav li a {
+      color: #333333; }
+      .navbar-default .navbar-nav li a:hover {
+        color: #AA1804; }
+
+/*
+* Page Sections
+*/
+.parallax, .hero .bg-holder {
+  background-size: cover;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-position: center center; }
+
+.scrolling {
+  padding: 3vh; }
+
+.hero {
+  min-height: 100%;
+  display: table; }
+  .hero .bg-holder {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 1;
+    filter: blur(5px);
+    background-image: url("../images/home/cover-1.jpg"); }
+  .hero .overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 2;
+    background: rgba(0, 0, 0, 0.5); }
+  .hero .text-container {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 3;
+    color: #ffffff;
+    text-align: center;
+    text-transform: uppercase;
+    display: table; }
+    .hero .text-container .text-content {
+      display: table-cell;
+      vertical-align: middle; }
+      .hero .text-container .text-content h1 {
+        font-family: 'Avenir Next Demi Bold', sans-serif;
+        letter-spacing: 10px;
+        font-size: 5vh; }
+      .hero .text-container .text-content h2 {
+        font-family: 'Avenir Next Ultra Light', sans-serif;
+        letter-spacing: 1vh;
+        font-size: 3vh;
+        margin-top: 4vh; }
+
+.welcome {
+  background: #ffffff;
+  padding: 10vh 0; }
+  .welcome .container p {
+    font-size: 2vh;
+    line-height: 4vh; }
+
+.who-what-why {
+  background: #0BACB9;
+  color: #ffffff;
+  text-align: center;
+  padding: 5vh 0; }
+  .who-what-why .divider {
+    background: rgba(255, 255, 255, 0.4);
+    margin: 1vh auto;
+    width: 75px;
+    height: 2px; }
+  .who-what-why h3 {
+    font-family: 'Avenir Next Ultra Light';
+    text-transform: uppercase;
+    letter-spacing: .2vh;
+    font-size: 3vh;
+    margin-top: 3vh; }
+  .who-what-why p {
+    letter-spacing: .5px;
+    font-size: 1.5vh; }
+  .who-what-why .clip {
+    -webkit-clip-path: polygon(50% 0%, 80% 25%, 80% 75%, 50% 100%, 20% 75%, 20% 25%);
+    clip-path: polygon(50% 0%, 80% 25%, 80% 75%, 50% 100%, 20% 75%, 20% 25%);
+    width: 303px;
+    height: 200px;
+    margin-top: 3vh; }
+
+.join {
+  background-image: url("../images/home/join.jpg");
+  padding: 4vh 0;
+  text-align: center; }
+  .join a {
+    font-family: 'Avenir Next Demi Bold', sans-serif;
+    color: #333333;
+    display: block;
+    background: #ffffff;
+    width: 13vh;
+    padding: 1.2vh 0;
+    margin: 4vh auto;
+    text-transform: uppercase;
+    font-size: 2.1vh;
+    border: 3px solid #ffffff;
+    transition: .5s;
+    letter-spacing: 4px; }
+    .join a:hover {
+      text-decoration: none;
+      border: 3px solid #333333;
+      background: none;
+      transition: 1s; }
+
+.calendar {
+  margin: 5vh 0;
+  text-align: center; }
+  .calendar p {
+    margin-bottom: 5vh; }
+
+.footer {
+  background: #333333;
+  color: #ffffff;
+  text-align: center; }
+  .footer a {
+    color: #ffffff; }
+    .footer a:hover {
+      color: #0BACB9; }
+  .footer p {
+    font-size: 1.5vh; }
+  .footer .social-media {
+    font-size: 4vh; }
+  .footer .glyphicon-heart {
+    font-size: 1.2vh;
+    color: #AA1804; }
+
+/*
+* Content
+*/
+.content {
+  padding: 5vh inherit;
+  min-height: 85%; }
+
+.featured {
+  margin-top: 60px;
+  padding: 5vh;
+  width: 100%;
+  height: 40vh;
+  display: table; }
+  .featured .featured-container {
+    min-height: 40vh;
+    border: 1vh solid #ffffff;
+    text-align: center;
+    display: table-cell;
+    vertical-align: middle; }
+    .featured .featured-container h1 {
+      color: #ffffff;
+      font-family: 'Avenir Next Demi Bold', sans-serif;
+      font-size: 5vh; }
+
+/*
+* Responsive design
+*/
+@media only screen and (min-width: 320px) {
+  .hero > .text-container > .text-content h1 {
+    font-size: 7vh;
+    letter-spacing: 1.5vh; }
+  .hero > .text-container > .text-content h2 {
+    font-size: 3vh; }
+  h1 {
+    font-size: 4vh; }
+  .who-what-why p {
+    font-size: 2vh;
+    line-height: 3vh; } }
+
+@media only screen and (min-width: 992px) {
+  .hero > .text-container > .text-content h1 {
+    font-size: 9vh;
+    letter-spacing: 2vh; }
+  .hero > .text-container > .text-content h2 {
+    font-size: 4vh; }
+  h1 {
+    font-size: 4vh; }
+  .who-what-why {
+    padding: 5vh 0; }
+    .who-what-why .divider {
+      margin: 3vh auto; }
+    .who-what-why p {
+      font-size: 1.75vh;
+      line-height: 2.75vh; } }

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Officers on Crimson Kindness</title>
+    <link>http://crimsonkindness.github.io/officers/index.xml</link>
+    <description>Recent content in Officers on Crimson Kindness</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 21 Dec 2016 22:12:34 -0600</lastBuildDate>
+    <atom:link href="http://crimsonkindness.github.io/officers/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>President</title>
+      <link>http://crimsonkindness.github.io/officers/president/</link>
+      <pubDate>Wed, 21 Dec 2016 22:32:22 -0600</pubDate>
+      
+      <guid>http://crimsonkindness.github.io/officers/president/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vice President</title>
+      <link>http://crimsonkindness.github.io/officers/vicepresident/</link>
+      <pubDate>Thu, 22 Dec 2016 00:30:13 -0600</pubDate>
+      
+      <guid>http://crimsonkindness.github.io/officers/vicepresident/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Financial Coordinator</title>
+      <link>http://crimsonkindness.github.io/officers/financial/</link>
+      <pubDate>Thu, 22 Dec 2016 00:31:44 -0600</pubDate>
+      
+      <guid>http://crimsonkindness.github.io/officers/financial/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Co-Relations Coordinator</title>
+      <link>http://crimsonkindness.github.io/officers/co-relations-1/</link>
+      <pubDate>Thu, 22 Dec 2016 00:35:03 -0600</pubDate>
+      
+      <guid>http://crimsonkindness.github.io/officers/co-relations-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Co-Relations Coordinator</title>
+      <link>http://crimsonkindness.github.io/officers/co-relations-2/</link>
+      <pubDate>Thu, 22 Dec 2016 00:35:06 -0600</pubDate>
+      
+      <guid>http://crimsonkindness.github.io/officers/co-relations-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Event Coordinator</title>
+      <link>http://crimsonkindness.github.io/officers/event/</link>
+      <pubDate>Thu, 22 Dec 2016 00:35:40 -0600</pubDate>
+      
+      <guid>http://crimsonkindness.github.io/officers/event/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Marketing Director</title>
+      <link>http://crimsonkindness.github.io/officers/marketing/</link>
+      <pubDate>Thu, 22 Dec 2016 00:34:40 -0600</pubDate>
+      
+      <guid>http://crimsonkindness.github.io/officers/marketing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Web &amp; Design Director</title>
+      <link>http://crimsonkindness.github.io/officers/web-and-design/</link>
+      <pubDate>Thu, 22 Dec 2016 00:35:24 -0600</pubDate>
+      
+      <guid>http://crimsonkindness.github.io/officers/web-and-design/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

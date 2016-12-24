@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Events on Crimson Kindness</title>
+    <link>http://crimsonkindness.github.io/events/index.xml</link>
+    <description>Recent content in Events on Crimson Kindness</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 22 Dec 2016 01:59:29 -0600</lastBuildDate>
+    <atom:link href="http://crimsonkindness.github.io/events/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Events</title>
+      <link>http://crimsonkindness.github.io/events/</link>
+      <pubDate>Thu, 22 Dec 2016 01:59:29 -0600</pubDate>
+      
+      <guid>http://crimsonkindness.github.io/events/</guid>
+      <description>&lt;p&gt;Below is a calendar of all of our events, including meetings, service activities,
+team weeks, and more. If you click on an event, you can add it to your Google
+Calendar.&lt;/p&gt;
+
+&lt;p&gt;Have an event suggestion for us? We love new ideas! &lt;a href=&#34;../contact&#34;&gt;Send us an email&lt;/a&gt;
+to let us know!&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
