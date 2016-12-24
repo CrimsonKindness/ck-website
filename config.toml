@@ -1,5 +1,5 @@
 theme = "tusk"
-baseurl = "http://CrimsonKindness.github.io"
+baseurl = "http://CrimsonKindness.github.io/"
 title = "Crimson Kindness"
 contentDir = "content"
 layoutDir = "layouts"
