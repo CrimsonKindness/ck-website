@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = git@personal.github.com:CrimsonKindness/crimsonkindness.github.io.git
+	branch = master
