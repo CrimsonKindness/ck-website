@@ -1,6 +1,6 @@
 +++
 title = "Join"
-featured_image = "../images/home/join.jpg"
+featured_image = "../images/join/featured.jpg"
 draft = false
 date = "2016-12-22T01:48:21-06:00"
 

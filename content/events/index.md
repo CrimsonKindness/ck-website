@@ -1,6 +1,6 @@
 +++
 title = "Events"
-featured_image = ""
+featured_image = "../images/events/featured.jpg"
 draft = false
 date = "2016-12-22T01:59:29-06:00"
 

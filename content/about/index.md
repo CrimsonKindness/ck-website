@@ -2,7 +2,7 @@
 title = "About"
 draft = false
 date = "2016-12-20T18:02:49-06:00"
-featured_image = "../images/home/what-we-do.jpg"
+featured_image = "../images/about/featured.jpg"
 +++
 Crimson Kindness was founded in February of 2013 out of a desire to make our
 campus a more kind place. Inspired by the Random Acts of Kindness Foundation,

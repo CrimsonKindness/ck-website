@@ -2,7 +2,7 @@
 draft = false
 date = "2016-12-22T01:53:39-06:00"
 title = "Teams"
-featured_image = ""
+featured_image = "../images/teams/featured.jpg"
 
 +++
 Teams are the heart and soul of Crimson Kindness. Teams consist of fun activities
