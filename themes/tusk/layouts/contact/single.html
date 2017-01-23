@@ -1,0 +1,17 @@
+{{ partial "header.html" . }}
+	{{ partial "featured_image.html" . }}
+	<div class="container content scrolling">
+		{{ .Content }}
+    <div class="divider"></div>
+    <div class="row">
+      <div class="col-md-6">
+        <h4>Send us an email</h4>
+        {{ partial "contact/contact_form.html" . }}
+      </div>
+      <div class="col-md-6">
+        <h4>Sign up for our newsletter</h4>
+        {{ partial "contact/mailchimp_signup.html" . }}
+      </div>
+    </div>
+	</div>
+{{ partial "footer.html" . -}}

@@ -19,5 +19,7 @@ if asked. We’ll use your Crimson email address to add you to The SOURCE roster
 The invitation will be sent after Step 2 is completed. Be sure to accept our
 organization invitation once we send it to you!
 
-**Step 2:** [Pay your membership dues.](../store) ($10 for the academic year, $5
+**Step 2:** [Pay your membership dues.](../shop) ($10 for the academic year, $5
   prorated for spring semesters)
+
+*Form not working? Try this link [here](https://goo.gl/forms/zLy9MrtmEyEhQiD72).*

@@ -5,5 +5,5 @@ title = "Event Coordinator"
 headshot_image = "../images/officers/elly.jpg"
 email = "ecmckinnon@crimson.ua.edu"
 name = "Elly McKinnon"
-weight = 6
+weight = 9
 +++

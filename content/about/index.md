@@ -44,7 +44,7 @@ Meetings page to see when the next meeting is!
 Teams are a fun way for you to engage in acts of kindness in a small group setting.
 The Team Leader will bring an activity to complete each meeting so you can go do
 little acts of kindness with your team. Teams meet every other week. There is a
-team meeting available every evening (Monday-Thursday) during team weeks. You
+team meeting available every evening (Sunday-Thursday) during team weeks. You
 can choose the night that works best for you! If you miss your team meeting
 though, you are welcome to attend a different one that week. We do ask that you
 become a member before you become a part of a team. Find out more and sign up

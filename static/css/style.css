@@ -38,6 +38,18 @@ strong {
   font-family: 'Avenir Next Demi Bold', sans-serif; }
 
 /*
+* Forms
+*/
+label {
+  font-family: 'Avenir Next Demi Bold', sans-serif; }
+
+.form-control {
+  height: auto; }
+
+.asterisk {
+  color: #AA1804; }
+
+/*
 * Headings
 */
 .divider {

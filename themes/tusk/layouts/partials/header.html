@@ -1,8 +1,13 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>{{ .Title }}</title>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="author" content="Crimson Kindness" />
+  <meta name="description" content="We are an organization dedicated to spreading kindness on The University of Alabama's campus." />
+  <link rel='shortcut icon' href='/images/favicon.png' type='image/x-icon'/ >
   {{ .Hugo.Generator }}
+  <title>{{ .Title }}</title>
   {{ $baseURL := .Site.BaseURL }}
   <!-- TODO: Google Analytics -->
   <link href="https://fonts.googleapis.com/css?family=Emilys+Candy" rel="stylesheet">
@@ -17,7 +22,7 @@
   <nav class="navbar navbar-default navbar-fixed-top" role="navigation">
   <div class="container-fluid">
     <div class="navbar-header">
-      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-collapse" aria-expanded="false" aria-controls="navbar">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-collapse" href="#navbar-collapse" aria-expanded="false" aria-controls="navbar">
         <span class="sr-only">Toggle navigation</span>
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
