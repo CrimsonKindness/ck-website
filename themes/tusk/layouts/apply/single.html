@@ -1,0 +1,18 @@
+{{ partial "header.html" . }}
+	{{ partial "featured_image.html" . }}
+	<div class="container content scrolling">
+    <div class="row" style="text-align: center;">
+      			<p>You must be logged into your Crimson account to apply!</p>
+      <div class="col-md-6">
+        <h3><a href="https://docs.google.com/document/d/1c1O1KBeHZnPQQ8gwEzwcAX1v88_Bx6gyOZWV3j0HzvA/edit?usp=sharing">Officer Information Document</a></h3>
+        <h3><a href="https://goo.gl/forms/JgrfzQroEsiJdkKG3">Officer Application</a></h3>
+      </div>
+      <div class="col-md-6">
+        <h3><a href="https://docs.google.com/document/d/1aqxMFbo27JXHOGl3K3oKJFEDJ4imQi5HE3lkaX89hSc/edit?usp=sharing">Team Leader Information Document</a></h3>
+        <h3><a href="https://goo.gl/forms/4xKfV18AkhHyJ5nh1">Team Leader Application</a></h3>
+      </div>
+    </div>
+    <div class="divider"></div>
+		{{ .Content }}
+	</div>
+{{ partial "footer.html" . -}}

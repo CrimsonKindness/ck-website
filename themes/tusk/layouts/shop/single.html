@@ -1,7 +1,42 @@
 {{ partial "header.html" . }}
   {{ partial "featured_image.html" . }}
   <div class="container content scrolling">
-    {{ partial "shop/spring_dues.html" . }}
-
+    <div class="row">
+      {{ partial "shop/spring_dues.html" . }}
+      {{ partial "shop/shirt_wine.html" . }}
+      {{ partial "shop/shirt_bluespruce.html" . }}
+      {{ partial "shop/shirt_kk_blue.html" . }}
+      {{ partial "shop/shirt_kk_red.html" . }}
   </div>
+  </div>
+
+  <script type="text/javascript">
+    function checkSize(color) {
+      if (color === 'bluespruce') {
+        if (document.getElementById('bluespruce').value === 'select') {
+          alert('Please select a size!');
+          return false;
+        }
+      }
+      else if (color === 'wine') {
+        if (document.getElementById('wine').value === 'select') {
+          alert('Please select a size!');
+          return false;
+        }
+      }
+      else if (color === 'kk_blue') {
+        if (document.getElementById('kk_blue').value === 'select') {
+          alert('Please select a size!');
+          return false;
+        }
+      }
+      else if (color === 'kk_red') {
+        if (document.getElementById('kk_red').value === 'select') {
+          alert('Please select a size!');
+          return false;
+        }
+      }
+    }
+  </script>
+
 {{ partial "footer.html" . }}
