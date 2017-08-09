@@ -1,6 +1,6 @@
 +++
 featured_image = "../images/apply/apply.jpg"
-draft = false
+draft = true 
 date = "2017-02-27T18:18:06-06:00"
 title = "Apply for the 2017-18 Leadership Team"
 
