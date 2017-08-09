@@ -43,10 +43,10 @@ To set up the project on your computer, you need the following tools installed:
 - Git
 - Hugo
 - Node
-- Sass
-- Gulp
+<!-- - Sass -->
+<!-- - Gulp -->
 
-We'll use [Homebrew](https://brew.sh/) to help us install Git, Hugo, and Node. Installation instructions can be found on the Homebrew website.
+We'll use [Homebrew](https://brew.sh/) to help us install Git and Hugo. Installation instructions can be found on the Homebrew website.
 
 After installing Homebrew, we can install the first three tools using the 
 following commands in the terminal:
@@ -54,7 +54,6 @@ following commands in the terminal:
 ```
 $ brew install git
 $ brew install hugo
-$ brew install node
 ```
 
 Now let's check to see if everything installed correctly:
@@ -64,15 +63,10 @@ git version 2.14.0
 
 $ hugo version
 Hugo Static Site Generator v0.18 BuildDate: 2016-12-19T12:43:00-08:00
-
-$ node -v
-v7.9.0
-
-$ npm -v
-4.2.0
 ```
 
-The numbers may be different, but you should see something similar. Now,
+The numbers may be different, but you should see something similar. 
+<!-- Now,
 we'll use NPM (node) to install [Gulp]():
 
 ```
@@ -102,7 +96,7 @@ And to verify:
 ```
 $ sass -v
 Sass 3.4.23 (Selective Steve)
-```
+``` -->
 
 Yay! Now you have everything you need to run the CK website.
 
@@ -112,7 +106,7 @@ First, you need to clone this repository:
 $ git clone --recursive git@github.com:CrimsonKindness/website-hugo.git
 ```
 
-Now, let's initialize our required node packages. This command reads the 
+<!-- Now, let's initialize our required node packages. This command reads the 
 `package.json` file and installs what we need:
 ```
 $ npm install
@@ -123,7 +117,7 @@ To make sure this worked, run this command:
 $ gulp watch
 [19:26:32] Using gulpfile ~/website-hugo/gulpfile.js
 [19:26:32] Starting 'watch'...
-```
+``` -->
 
 Finally, you'll notice a file that says `deploy.sh`. This script makes our 
 lives easier by allowing us to update the CK website with just one command.
@@ -177,7 +171,8 @@ size when they go to checkout.
 Examples are already there. You should be able to just swap out names and images.
 
 #### CSS
-To edit CSS, use the file found in `_site/style.scss`. This is a Sass file, 
+To edit CSS, use the file found in `static/css/style.css`. 
+<!-- This is a Sass file, 
 which makes editing CSS way easier and more organized. Sass is a preprocessor 
 for CSS.
 
@@ -190,7 +185,7 @@ But, you can use Gulp to do this for you automatically. While Gulp
 is running, it will compile the Sass file every time you save `style.scss`:
 ```
 $ gulp watch
-```
+``` -->
 
 
 ### Seeing your changes locally
