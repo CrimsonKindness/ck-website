@@ -144,6 +144,39 @@ You'll make edits in primarily two places, the `content` folder and the
 `themes/tusk` folder. **Never make changes in the `public` folder!** 
 Everything will break and that will be sad.
 
+#### Text content
+Hugo handles text content using Markdown files. [This link](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) is a great
+reference for the syntax.
+
+#### Shop page
+To make changes to the Shop, you'll have to edit two files:
+1. `themes/tusk/layouts/partials/shop/the_filename.html`
+2. `themes/tusk/layouts/shop/single.html`
+
+`the_filename.html` is the HTML for the specific shop item (like blue t-shirt, 
+spring dues, etc.), and `single.html` is where you add it to the shop page. 
+`single.html` also has the JavaScript code to make sure people select a shirt
+size when they go to checkout.
+
+Examples are already there. You should be able to just swap out names and images.
+
+#### CSS
+To edit CSS, use the file found in `_site/style.scss`. This is a Sass file, 
+which makes editing CSS way easier and more organized. Sass is a preprocessor 
+for CSS.
+
+To see changes reflected, you have to compile the Sass file whenever you
+change it:
+```
+$ sass _site/style.scss static/css/style.css
+```
+But, you can use Gulp to do this for you automatically. While Gulp
+is running, it will compile the Sass file every time you save `style.scss`:
+```
+$ gulp watch
+```
+
+
 ### Seeing your changes locally
 Hugo is great because you don't have to upload changed files every time you 
 make a tweak. To see your changes locally, run this command:
