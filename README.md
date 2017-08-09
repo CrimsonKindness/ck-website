@@ -5,6 +5,14 @@ website generator and manager.
 ## Table of Contents
 - [Overview](#overview)
 - [Prerequisites](#prerequisites)
+- [Setup](#setup)
+- [Editing the website](#editing-the-website)
+    - [Text content](#text-content)
+    - [Officers](#officers)
+    - [Shop](#shop)
+    - [CSS](#css)
+  - [Seeing your changes locally](#seeing-your-changes-locally)
+  - [Deploying changes](#deploying-changes) 
 
 ## Overview 
 A basic understanding of HTML, CSS, and Markdown is necessary to manage this
@@ -156,7 +164,7 @@ reference for the syntax.
 To change officer information, go to `content/officers`. Each officer position
 has its own markdown file. Swap out the relevant text and headshot.
 
-#### Shop page
+#### Shop
 To make changes to the Shop, you'll have to edit two files:
 1. `themes/tusk/layouts/partials/shop/the_filename.html`
 2. `themes/tusk/layouts/shop/single.html`
