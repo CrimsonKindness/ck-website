@@ -186,9 +186,9 @@ $ hugo server
 Then you can visit [http://localhost:1313/](http://localhost:1313/) to see your
 local copy of the website.
 
-
 ### Deploying changes
-After making any kind of change, run this script in the terminal:
+If your local copy looks the way you want it to, you're ready to make your 
+changes live! Run this script in the terminal to do that:
 ```
 $ ./deploy.sh
 ```
