@@ -165,5 +165,6 @@ If you're curious as to what's happening when you run this script:
 1. First, we run `hugo`. This generates the website and puts it in the `public` folder.
 2. Then, we navigate to the `public` folder and stage the changes in git.
 3. We commit and push these changes, and then it takes us back to the root project folder.
+4. In the root folder, we push our changes to the `website-hugo` repo.
 
 But rather than running 4-5 commands every time, you only have to do 1 :)
