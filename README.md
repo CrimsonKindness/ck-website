@@ -42,7 +42,7 @@ To set up the project on your computer, you need the following tools installed:
 
 - Git
 - Hugo
-- Node
+<!-- - Node -->
 <!-- - Sass -->
 <!-- - Gulp -->
 
