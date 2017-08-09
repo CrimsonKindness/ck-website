@@ -2,6 +2,10 @@
 Managing the Crimson Kindness website using [Hugo](https://gohugo.io), a static 
 website generator and manager.
 
+## Table of Contents
+- [Overview](#overview)
+- [Prerequisites](#prerequisites)
+
 ## Overview 
 A basic understanding of HTML, CSS, and Markdown is necessary to manage this
 website. JavaScript is a plus, but the necessary code snippets are already
@@ -147,6 +151,10 @@ Everything will break and that will be sad.
 #### Text content
 Hugo handles text content using Markdown files. [This link](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) is a great
 reference for the syntax.
+
+#### Officers
+To change officer information, go to `content/officers`. Each officer position
+has its own markdown file. Swap out the relevant text and headshot.
 
 #### Shop page
 To make changes to the Shop, you'll have to edit two files:
