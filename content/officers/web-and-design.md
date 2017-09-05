@@ -1,9 +1,9 @@
 +++
 bio = ""
-headshot_image = "../images/officers/emily.jpg"
+headshot_image = "../images/officers/marley2.jpg"
 date = "2016-12-22T00:35:24-06:00"
 title = "Web & Design Director"
-email = "ekhuynh@crimson.ua.edu"
-name = "Emily Huynh"
+email = "mwaskin@crimson.ua.edu"
+name = "Marley Waskin"
 weight = 8
 +++
