@@ -2,7 +2,7 @@
 featured_image = "../images/apply/apply.jpg"
 draft = true 
 date = "2017-02-27T18:18:06-06:00"
-title = "Apply for the 2018-19 Leadership Team"
+title = "Apply for the 2018-19 Leadership Team!"
 
 +++
 # “Be the change you want to see in the world.” ~Gandhi
@@ -12,7 +12,7 @@ Thank you for your interest in becoming a future leader of Crimson Kindness. Ple
 read each document relevant to the position you are applying for. See below for Frequently Asked Questions about the
 application process for becoming an officer or team leader.
 
-**All applications are due Wednesday, March 21 at 11:59PM.**
+** All applications are due Wednesday, March 21 at 11:59PM.**
 
 
 ## Officers FAQ
