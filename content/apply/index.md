@@ -2,7 +2,7 @@
 featured_image = "../images/apply/apply.jpg"
 draft = true 
 date = "2017-02-27T18:18:06-06:00"
-title = "Apply for the 2017-19 Leadership Team"
+title = "Apply for the 2018-19 Leadership Team"
 
 +++
 # “Be the change you want to see in the world.” ~Gandhi
