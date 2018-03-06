@@ -12,7 +12,7 @@ Thank you for your interest in becoming a future leader of Crimson Kindness. Ple
 read each document relevant to the position you are applying for. See below for Frequently Asked Questions about the
 application process for becoming an officer or team leader.
 
-** All applications are due Tuesday, March 21 at 11:59PM.**
+** All applications are due Wednesday, March 21 at 11:59PM.**
 
 
 ## Officers FAQ
