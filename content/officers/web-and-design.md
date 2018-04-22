@@ -1,9 +1,9 @@
 +++
 bio = ""
-headshot_image = "../images/officers/marley2.jpg"
+headshot_image = "../images/officers/charlie.jpg"
 date = "2016-12-22T00:35:24-06:00"
 title = "Web & Design Director"
-email = "mwaskin@crimson.ua.edu"
-name = "Marley Waskin"
+email = "cwwefelmeyer@crimson.ua.edu"
+name = "Charlie Wefelmeyer"
 weight = 8
 +++
