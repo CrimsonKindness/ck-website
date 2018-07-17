@@ -4,6 +4,6 @@ title = "Vice President"
 email = "sgrogers1@crimson.ua.edu"
 name = "Sarah Grace Rogers"
 bio = ""
-headshot_image = "../images/officers/sarahgrace.jpg"
+headshot_image = "../images/officers/maddi1819.jpg"
 weight = 2
 +++

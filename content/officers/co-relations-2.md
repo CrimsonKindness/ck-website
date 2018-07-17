@@ -1,5 +1,5 @@
 +++
-headshot_image = "../images/officers/caroline2.jpg"
+headshot_image = "../images/officers/caroline1819.jpg"
 email = "cmworkman1@crimson.ua.edu"
 name = "Caroline Workman"
 bio = ""
