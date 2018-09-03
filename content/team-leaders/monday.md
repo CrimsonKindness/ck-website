@@ -5,6 +5,6 @@ featured_image = ""
 bio = ""
 headshot_image = "../images/team_leaders/maddi.jpg"
 email = "mmcgillwelch@crimson.ua.edu"
-name = "Maddi McGill Welch"
+name = "Steven Ward"
 weight = 2
 +++
