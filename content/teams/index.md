@@ -10,7 +10,7 @@ engaging you and others in acts of kindness. [Team Leaders](../team-leaders)
 will provide an activity at each meeting helping you to spread a little more
 kindness each time you go.
 
-Teams meet every other week on Sunday-Thursday at 7:00 in the Ferguson Center on
+Teams meet every other week on Monday-Wednesday at 7:00 in the Ferguson Center on
 the 2nd floor. You can pick the team that works best for you, but you
 are welcome to participate each day you want!
 
