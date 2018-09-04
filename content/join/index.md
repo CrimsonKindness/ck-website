@@ -22,4 +22,4 @@ organization invitation once we send it to you!
 **Step 2:** [Pay your membership dues.](../shop) ($10 for the academic year, $5
   prorated for spring semesters)
 
-*Form not working? Try this link [here](https://goo.gl/forms/zLy9MrtmEyEhQiD72).*
+*Form not working? Try this link [here](https://goo.gl/forms/2CiFO5JkQZYphX613).*
