@@ -14,7 +14,7 @@ to meet you!
 
 #### Becoming a member is a two-step process:
 
-**Step 1:** Sign up using the form below, and log in with your myBama credentials
+**Step 1:** [Sign up using this form](https://goo.gl/forms/2CiFO5JkQZYphX613), and log in with your myBama credentials
 if asked. We’ll use your Crimson email address to add you to The SOURCE roster.
 The invitation will be sent after Step 2 is completed. Be sure to accept our
 organization invitation once we send it to you!
