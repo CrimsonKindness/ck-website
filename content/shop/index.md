@@ -6,7 +6,7 @@ featured_image = "../images/shop/featured.jpg"
 +++
 <div class="col-xs-12 col-s-6 col-md-4 col-lg-4">
   <img src="../images/shop/membership_dues.png" style="width: 100%;">
-  <h4>Spring 2018 Dues</h4>
+  <h4>Fall 2018 Dues</h4>
   <p>$5</p>
   <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
     <input type="hidden" name="cmd" value="_s-xclick">
