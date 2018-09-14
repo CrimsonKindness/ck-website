@@ -103,7 +103,7 @@ Yay! Now you have everything you need to run the CK website.
 ## Setup
 First, you need to clone this repository:
 ```
-$ git clone -recurse-submodules git@github.com:CrimsonKindness/website-hugo.git
+$ git clone --recurse-submodules git@github.com:CrimsonKindness/website-hugo.git
 ```
 
 <!-- Now, let's initialize our required node packages. This command reads the
