@@ -5,7 +5,7 @@ cart_button_html = ""
 featured_image = "../images/shop/featured.jpg"
 +++
 <div class="col-xs-12 col-s-6 col-md-4 col-lg-4">
-  <img src="../../static/images/shop/membership_dues.png" style="width: 100%;">
+  <img src="../images/shop/membership_dues.png" style="width: 100%;">
   <h4>Spring 2018 Dues</h4>
   <p>$5</p>
   <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
