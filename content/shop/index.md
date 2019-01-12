@@ -47,9 +47,9 @@ featured_image = "../images/shop/featured.jpg"
   <img src="../images/shop/ss_seafoam.png" style="width: 100%;">
   <h4>"One Act of Kindness Can Change the World" Shirt (Short-Sleeve, Seafoam)</h4>
   <p>$20</p>
- <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+ <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
 <input type="hidden" name="cmd" value="_s-xclick">
-<input type="hidden" name="hosted_button_id" value="TRTDEUL3MJWTS">
+<input type="hidden" name="hosted_button_id" value="XNVSEDT7X66BQ">
 <table>
 <tr><td><input type="hidden" name="on0" value="Size">Size</td></tr><tr><td><select name="os0">
 	<option value="Medium">Medium $20.00 USD</option>
@@ -58,9 +58,11 @@ featured_image = "../images/shop/featured.jpg"
 </select> </td></tr>
 </table>
 <input type="hidden" name="currency_code" value="USD">
-<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_cart_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
 <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
 </form>
+
+
 </div>
 
 <div class="col-xs-12 col-s-6 col-md-4 col-lg-4">
@@ -89,6 +91,25 @@ featured_image = "../images/shop/featured.jpg"
  <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
 <input type="hidden" name="cmd" value="_s-xclick">
 <input type="hidden" name="hosted_button_id" value="LUR98VUWP8XGC">
+<table>
+<tr><td><input type="hidden" name="on0" value="Size">Size</td></tr><tr><td><select name="os0">
+	<option value="Medium">Medium $20.00 USD</option>
+	<option value="Large">Large $20.00 USD</option>
+</select> </td></tr>
+</table>
+<input type="hidden" name="currency_code" value="USD">
+<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_cart_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+</form>
+</div>
+
+<div class="col-xs-12 col-s-6 col-md-4 col-lg-4">
+  <img src="../images/shop/ls_grey.png" style="width: 100%;">
+  <h4>"One Act of Kindness Can Change the World" Shirt (Long-Sleeve, Grey)</h4>
+  <p>$20</p>
+ <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+<input type="hidden" name="cmd" value="_s-xclick">
+<input type="hidden" name="hosted_button_id" value="WNY8ZRT9953Z6">
 <table>
 <tr><td><input type="hidden" name="on0" value="Size">Size</td></tr><tr><td><select name="os0">
 	<option value="Medium">Medium $20.00 USD</option>
