@@ -18,7 +18,7 @@ featured_image = "../images/shop/featured.jpg"
 </div>
 
 <div class="col-xs-12 col-s-6 col-md-4 col-lg-4">
-  <img src="../../images/shop/cords.jpg" style="width: 100%;">
+  <img src="../../images/shop/cords2.jpg" style="width: 100%;">
   <h4>Grduation Cords - Teal and Maroon</h4>
   <p>$7</p>
 
