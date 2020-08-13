@@ -2,7 +2,7 @@
 title = "About"
 draft = false
 date = "2016-12-20T18:02:49-06:00"
-featured_image = "../images/about/featured.jpg"
+featured_image = "../images/about/mainheader.png"
 +++
 Crimson Kindness was founded in February of 2013 out of a desire to make our
 campus a more kind place. Inspired by the Random Acts of Kindness Foundation,
@@ -58,9 +58,15 @@ posted to our [Facebook](http://facebook.com/CrimsonKindness) and
 [Twitter](http://twitter.com/CrimsonKindness) pages. You can check out what we
 currently have planned on our What We Do page. We can’t wait to see you at our next event!
 
+#### See It in Action:
+
+<iframe width="560" height="315" 
+    src="https://www.youtube.com/embed/1LqsLPP_FYI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+</iframe>
+
 ---
 
 **Want to join?** Click over to our Join page to learn how you can become a
 member of Crimson Kindness.
 
-**Want to meet our leaders?** Head on over to the [Officers](../officers) or Team Leaders page.
+**Want to meet our leaders?** Head on over to the [Officers](../officers) or [Team Leaders](../team-leaders) page.

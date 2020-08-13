@@ -1,9 +1,9 @@
 +++
 bio = ""
-headshot_image = "../images/officers/charlie1819.jpg"
+headshot_image = "../images/officers/cateyuk.jpg"
 date = "2016-12-22T00:35:24-06:00"
 title = "Web & Design Director"
-email = "cwwefelmeyer@crimson.ua.edu"
-name = "Charlie Wefelmeyer"
-weight = 8
+email = "aeyuk@crimson.ua.edu"
+name = "Cate Yuk"
+weight = 5
 +++
