@@ -1,8 +1,0 @@
-{{ partial "header.html" . }}
-  {{ partial "featured_image.html" . }}
-  <div class="container content scrolling">
-    {{ range .Data.Pages.ByWeight }}
-      {{ .Render "li" }}
-    {{ end }}
-  </div>
-{{ partial "footer.html" . }}
