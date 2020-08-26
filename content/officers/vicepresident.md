@@ -4,6 +4,6 @@ title = "Vice President"
 email = "mmmosley@crimson.ua.edu"
 name = "Meridith Mosley"
 bio = ""
-headshot_image = "../images/officers/empty.jpg"
+headshot_image = "../images/officers/meredithmosley.jpg"
 weight = 2
 +++
