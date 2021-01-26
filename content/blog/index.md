@@ -5,10 +5,33 @@ date = "2016-12-20T18:02:49-06:00"
 featured_image = "../images/about/mainheader.png"
 +++
 
-## Testing!
+## The Crimson Kindness Blog!
 
-<!-- begin wwww.htmlcommentbox.com -->
- <div id="HCB_comment_box"><a href="http://www.htmlcommentbox.com">Widget</a> is loading comments...</div>
- <link rel="stylesheet" type="text/css" href="https://www.htmlcommentbox.com/static/skins/bootstrap/twitter-bootstrap.css?v=0" />
- <script type="text/javascript" id="hcb"> /*<!--*/ if(!window.hcb_user){hcb_user={};} (function(){var s=document.createElement("script"), l=hcb_user.PAGE || (""+window.location).replace(/'/g,"%27"), h="https://www.htmlcommentbox.com";s.setAttribute("type","text/javascript");s.setAttribute("src", h+"/jread?page="+encodeURIComponent(l).replace("+","%2B")+"&mod=%241%24wq1rdBcg%248dCXxPU8h.kBW0zKaWehT0"+"&opts=16862&num=10&ts=1611628881373");if (typeof s!="undefined") document.getElementsByTagName("head")[0].appendChild(s);})(); /*-->*/ </script>
-<!-- end www.htmlcommentbox.com -->
+### Share YOUR Random Acts of Kindness
+
+#### Random acts of kindness are happening all over campus everyday.
+#### Send an email of a random act of kindness you've witnessed to [CrimsonKindness@gmail.com](mailto:CrimsonKindness@gmail.com) and we will feature it on our blog!
+
+<form action="https://formspree.io/crimsonnkindness@gmail.com"
+      method="POST">
+  <div class="form-group">
+    <label>Name</label>
+    <input type="text" class="form-control" name="name" placeholder="Your name">
+  </div>
+  <div class="form-group">
+    <label>Email Address</label>
+    <input type="email" class="form-control" name="_replyto" placeholder="Your email">
+  </div>
+  <div class="form-group">
+    <label>Subject</label>
+    <input type="text" class="form-control" name="_subject" placeholder="Subject line" />
+  </div>
+  <input type="text" class="form-control" name="_gotcha" style="display:none" />
+  <div class="form-group">
+    <label>Your Random Act of Kindness</label>
+    <textarea name="message" class="form-control" placeholder="Your message"></textarea>
+  </div>
+  <input type="submit" class="btn btn-success" value="Send">
+</form>
+
+
