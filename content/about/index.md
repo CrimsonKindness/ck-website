@@ -47,11 +47,19 @@ posted to our [Facebook](http://facebook.com/CrimsonKindness) and
 [Twitter](http://twitter.com/CrimsonKindness) pages. You can check out what we
 currently have planned on our What We Do page. We can’t wait to see you at our next event!
 
+
 #### See It in Action:
 
 <iframe width="560" height="315" 
     src="https://www.youtube.com/embed/1LqsLPP_FYI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
 </iframe>
+
+---
+
+## Read Our Blog!
+
+Our blog is where we share YOUR Random Acts of Kindness. Click [here](https://crimsonkindness850807151.wordpress.com/) 
+to read all about the kindness going on at the University of Alabama!
 
 ---
 

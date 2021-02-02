@@ -40,3 +40,11 @@ find us on our social media accounts
 </form>
 
 ---
+
+
+## Read Our Blog!
+
+Our blog is where we share YOUR Random Acts of Kindness. Click [here](https://crimsonkindness850807151.wordpress.com/) 
+to read all about the kindness going on at the University of Alabama!
+
+---
